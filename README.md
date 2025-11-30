@@ -78,3 +78,6 @@ Screenshots / Demo Show what the dashboard looks like Example: https://github.co
 This analysis is based on the Superstore Sales Dataset, sourced from the DataScienceRoadMap GitHub repository: 🔗 https://github.com/DataScienceRoadMap
 
 The dataset is publicly available and commonly used for learning data analytics, dashboard development, and BI visualization techniques.
+
+6. screenshot / Demo
+https://github.com/Arnab093/Superstore-Sales-Dashboard/blob/main/Sales%20Dashboard.png
